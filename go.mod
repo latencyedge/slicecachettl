@@ -1,4 +1,4 @@
-module latencyedge/slicecachettl
+module github.com/latencyedge/slicecachettl
 
 go 1.12
 
